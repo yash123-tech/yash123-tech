@@ -38,8 +38,7 @@
 
 ### 📂 Projects
 - 💼 **Billing System in Python**
-- 📝 **To-do App with HTML/CSS/JS**
-- 🌐 **Portfolio Website (React)**
+
 
 ---
 
